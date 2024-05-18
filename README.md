@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -16,7 +15,7 @@ bun dev
 
 Checkout the App [here](https://chat-flow-builder-delta.vercel.app)
 
-Technologies used to create this project [`Next.js`], [`React Flow`], [`TypeScript`], [`Tailwind`], [`lodash`] and [`Zustand`] 
+Technologies used to create this project `Next.js`, `React Flow`, `TypeScript`, `Tailwind`, `lodash` and `Zustand` 
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
