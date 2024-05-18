@@ -16,7 +16,7 @@ bun dev
 
 Checkout the App [here](https://chat-flow-builder-delta.vercel.app)
 
-Technologies used to create this project [`Next.js], [`React Flow`], [`TypeScript`], [`Tailwind`], [`lodash`] and [`Zustand`] 
+Technologies used to create this project [`Next.js`], [`React Flow`], [`TypeScript`], [`Tailwind`], [`lodash`] and [`Zustand`] 
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
